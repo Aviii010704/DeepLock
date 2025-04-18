@@ -1,0 +1,25 @@
+<<<<<<< HEAD
+torch 
+torchvision 
+torchaudio 
+tensorflow 
+keras 
+opencv-python 
+numpy 
+pandas 
+matplotlib 
+tqdm 
+ffmpeg-python
+=======
+torch 
+torchvision 
+torchaudio 
+tensorflow 
+keras 
+opencv-python 
+numpy 
+pandas 
+matplotlib 
+tqdm 
+ffmpeg-python
+>>>>>>> 446e37b6 (first commit)
